@@ -18,19 +18,19 @@ h1 {background-color: #99CCFF;}
 
 #header {
     padding:30px;
-    width:820px;
+    width:1300px;
     float: right;
 }
 
 
 #content {
     padding:30px;
-    width:820px;
+    width:1300px;
     float: right;
 }
 
 #sidebar {
-    padding:30px;
+    padding:70px;
     width:150px;
     float: left;}
 
